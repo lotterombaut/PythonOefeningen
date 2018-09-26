@@ -1,0 +1,1 @@
+print('Labo Basic Programming, \n \t Labo week 1 \n \t \t Kennismaking met “Python”, \n \t \t Werken met variabelen. \n \t Labo Basic Programming, Labo week 2')
