@@ -1,8 +1,10 @@
 #oefening 08 --> functies
 #functies == herbruikbaarheid
 
-def getName(name):
-    print("Mijn naam is {0}".format(name))
+#Maak kleine functies -> splits op
+def getName(name, group):
+    return"Welkom, jouw naam is {0}. \n Jij behoort tot groep {1}".format(name,group)
+   # print("Mijn naam is ".format(name))
 
-getName("Lotte")
-getName("Rombaut")
+print(getName("Lotte", "1NMCT1"))
+print(getName("Rombaut", "3NMCT-Web"))
